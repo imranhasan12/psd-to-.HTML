@@ -1,0 +1,67 @@
+@media only screen and (max-width:1024px){
+	.row{
+      margin: 0 25px;
+	}
+	html{
+	font-size: 50.5%;
+
+    }
+	.image-1{
+		margin-left: 100px;
+	}
+
+	
+	header{
+	height: 9rem;
+	width: 100%;
+	background:black;
+	height: 95vh;
+	position: relative;
+	text-align: center;
+
+	}
+	.para {
+       font-size: 15px;
+	   margin-left: 150px;
+	
+	}
+	.hero-title h1{
+		 margin-left: 150px;
+		
+	}
+	.para-2{
+	
+		margin-left:150px;
+	
+	 
+	}
+	.btn-button{
+		 margin-left: 150px;
+		
+	}
+	.image-3 {
+	margin-top: 14rem;
+	height: 45rem;
+	width: 35rem;
+	margin-left: 20rem;
+	position: absolute;
+}
+	.title{
+		font-size: 17px;
+		
+	}
+	.image-5,.image-6,.image-7,.image-8,.image-9,.image-10{
+		
+		width: 100%;
+		padding: 10px;
+	}
+
+}
+	
+@media only screen and (max-width:980px){
+		.span_1_of_3{
+		width: 49.2%;
+		
+	}
+	
+}
